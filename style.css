@@ -1,0 +1,43 @@
+
+{
+    margin: 0;
+    padding: 0; 
+}	
+
+#contenedorgeneral{
+	width:1400px;
+	height:1000px;
+	background:black ;
+	margin:0.5em auto;
+	padding:0.5em;
+}
+#cont1{
+	height:15%;
+	background:green  ;
+}
+#cont3{
+	height:55%;
+	background:black ;
+}
+
+ul{
+background: #D2B4DE
+list-style:none;
+WIDTH:100%;
+}
+li{ 
+FLOAT:LEFT;
+POSITION: RELATIVE;
+WIDTH:AUTO;
+}
+	
+#BOTON{
+BACKGROUND:#82E0AA;
+COLOR:WHITE;
+FONT-STYLE:ITALIC;
+FONT-SIZE:16PX;
+FONT-WEIGHT:BOLD;
+PADDING:10PX 50PX;
+DISPLAY:BLOCK;
+}
+
